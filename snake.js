@@ -102,6 +102,9 @@ function draw() {
     context.font = '45px Change one';
     context.fillText(score, 2*box, 1.6*box);
 
+
+    
+
     // old head position
     let snakeX = snake[0].x;
     let snakeY = snake[0].y;
